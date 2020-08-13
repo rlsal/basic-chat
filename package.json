@@ -1,0 +1,16 @@
+{
+  "name": "base-chat",
+  "version": "1.0.0",
+  "description": "Experimenting",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+      "devStart": "nodemon server.js"
+  },
+  "author": "Harel",
+  "license": "ISC"
+}
